@@ -1,0 +1,117 @@
+/* Overriding  Bootstrap 4 CSS*/
+body {
+    background-image: url('https://media3.giphy.com/media/ycCpm8r5MAZCtxMcw3/giphy.gif?cid=790b76119caf1e64a9ae7a520540df567f0a4be4f6f62fa3&rid=giphy.gif&ct=g');
+    background-size: cover;
+    height: 100vh;
+    padding:0;
+    margin:0;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
+    text-align: center;
+    color:white;
+     position: relative;
+}
+
+
+/* Index PAGE*/
+.title{
+    color:white;
+    text-align: center;
+}
+
+.owlImage{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+
+/* Project PAGE*/
+.hero{
+    width: 90%;
+    height: 500px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 90% 90%;
+}
+.Examplebtn{
+    float:inherit;
+    right: 20%;
+    opacity: 1;  
+}
+
+.background{
+    border: 2px solid black;
+    background: black;
+    opacity: 0.9;
+}
+
+/* ABOUT ME PAGE*/
+p{
+    color:white;
+    text-align: center;
+}
+
+.AshleyInfo{
+    width: 50%;
+}
+
+.greyBox{
+    border: 2px solid black;
+    background: black;
+    opacity: 0.8;
+}
+
+.timeZone{
+    color: black;
+    position: relative;
+    margin-left: -100%;
+    bottom: 280%;
+    font-size: 185%;
+    color: white;
+    transition: transform .2s; /* Animation */
+}
+
+.timePicture{
+    width: 330%;
+    height: auto;
+    border-radius: 50%;
+    margin-left: -100%;
+    margin-top: -400%;
+    transition: transform .2s; /* Animation */
+    
+}
+
+
+.timePicture:hover, .timeZone:hover {
+  transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+}
+
+.grade{
+    height: 365%;
+    width: 390%;
+    
+}
+
+.btn{
+    position: relative;
+    margin-top: -0%;
+    margin-left: 38%;
+    margin-bottom: 5%;
+    
+}
+
+.info{
+    display: flex;
+}
+
+.demo{
+    color: white;
+    height: auto;
+}

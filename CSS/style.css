@@ -185,3 +185,42 @@ p{
     color: white;
     height: auto;
 }
+
+/* Media Queries*/
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    footer{
+        color: purple;
+        
+    }
+          .hero{
+    width: 135%;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 90% 90%;
+}
+    
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 767px) {  
+    
+          .hero{
+    width: 135%;
+    height: 400px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 90% 90%;
+}
+    
+    .timeline {
+	width:500px;
+
+}
+
+    
+}
+
+
+

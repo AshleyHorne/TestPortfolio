@@ -229,7 +229,10 @@ p{
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (max-width: 767px) {
-    
+   
+    footer{
+        color: white;
+    }
     
           .hero{
     width: 135%;

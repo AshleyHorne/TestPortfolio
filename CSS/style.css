@@ -212,10 +212,7 @@ p{
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
-    footer{
-        color: purple;
-        
-    }
+  
           .hero{
     width: 135%;
     height: 400px;

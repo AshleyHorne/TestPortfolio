@@ -193,8 +193,19 @@ p{
     
     .timeline {
         width:70%;
-
 }
+   .btn{
+    position: relative;
+    margin-top: -0%;
+    margin-left: 1%;
+    margin-bottom: 5%;
+    
+}
+    .demo{
+        width: 200%;
+}
+    
+
 
 }
 
@@ -233,7 +244,6 @@ p{
     
     .timeline {
         width:70%;
-
 }
 
     

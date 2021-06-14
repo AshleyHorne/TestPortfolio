@@ -70,6 +70,11 @@ p{
     background: black;
     opacity: 0.8;
 }
+.purpleBox{
+    border: 2px solid black;
+    background: #786D8F;
+    
+}
 
 .timeZone{
     color: black;

@@ -200,11 +200,16 @@ p{
     background-repeat: no-repeat;
     background-position: 90% 90%;
 }
+    .timeline {
+        width:70%;
+
+}
     
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
-@media only screen and (max-width: 767px) {  
+@media only screen and (max-width: 767px) {
+    
     
           .hero{
     width: 135%;
@@ -215,7 +220,7 @@ p{
 }
     
     .timeline {
-	width:500px;
+        width:70%;
 
 }
 

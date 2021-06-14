@@ -187,6 +187,18 @@ p{
 }
 
 /* Media Queries*/
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) { 
+    
+    .timeline {
+        width:70%;
+
+}
+
+}
+
+
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     footer{

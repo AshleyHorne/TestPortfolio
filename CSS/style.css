@@ -1,6 +1,6 @@
 /* Overriding  Bootstrap 4 CSS*/
 body {
-    background-image: url('https://media3.giphy.com/media/ycCpm8r5MAZCtxMcw3/giphy.gif?cid=790b76119caf1e64a9ae7a520540df567f0a4be4f6f62fa3&rid=giphy.gif&ct=g');
+    background-image: url('/CSS/Images/Background.png');
     background-size: cover;
     height: 100vh;
     padding:0;
